@@ -10,15 +10,15 @@ Register guest
  
 	create a guest object with the information given
  
-  add the guest object to the guest list
+  	add the guest object to the guest list
   
-  append the guest information to the guest.csv file
+  	append the guest information to the guest.csv file
   
 	display a message to indicate registration status
 
 Rent a resort
 	
- list the guests
+	 list the guests
  
 	prompt user to select a guest and retrieve the selected guest
  
@@ -36,7 +36,7 @@ Rent a resort
  
 	Note: you are not required to check whether the resort is occupied.
 
-	List all rental details for a guest 
+List all rental details for a guest 
  
 	List the guests
  
@@ -44,7 +44,7 @@ Rent a resort
  
 	retrieve and display all the resorts that he/she has rented
 
-	List all rental details for bungalows or apartment
+List all rental details for bungalows or apartment
  
 	prompt user to select Bungalow or Apartment
  
